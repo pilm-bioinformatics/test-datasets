@@ -1,0 +1,5 @@
+names,group
+SRR4238351,group1
+SRR4238355,group1
+SRR4238359,group2
+SRR4238379,group2
